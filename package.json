@@ -1,0 +1,29 @@
+{
+  "name": "modules_first",
+  "version": "1.0.1",
+  "description": "Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfokin92/modules_1.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "pfokin92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfokin92/modules_1/issues"
+  },
+  "homepage": "https://github.com/pfokin92/modules_1#readme",
+  "devDependencies": {
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^5.2.0",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
